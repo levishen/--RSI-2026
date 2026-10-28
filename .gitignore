@@ -1,0 +1,13 @@
+# 密钥
+.env
+
+# 运行产物
+runs/
+group/
+展示_*.html
+
+# Python / 系统
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
